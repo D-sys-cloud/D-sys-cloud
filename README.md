@@ -118,4 +118,53 @@ xxxxxx THEN YOU CAN GET YOUR SESSION_ID ✠`
 
 ---------
 
-<a href='https://app.koyeb.com/auth/signin' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-KOYEB-blue?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+<a href='https://app.koyeb.com/auth/signin' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-KOYEB-blue?style=for-the-badge&logo=koyeb&logoColor=white'/></a> 
+
+```
+   <a href='https://github.com/codespaces' target="_blank"><img alt='Codespace' src='https://img.shields.io/badge/-Deploy-green?style=for-the-badge&logo=codespace&logoColor=white'/></a>
+
+***
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>    
+
+### CONTRIBUTIONS 
+-Contributions to QUEEN-RIAS are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+
+<br>
+    <a href='https://github.com/Toxic1239/Queen-RiasV3_/issues/new/choose' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/-REPORT ISSUE-red?style=for-the-badge&logo=railway&logoColor=white'/></a>
+
+
+***
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>    
+
+### LICENSE 
+-The QUEEN-RIAS is released under the [MIT License](https://opensource.org/licenses/MIT).
+
+-Enjoy the diverse features of the QUEEN-RIAS  to enhance your conversations and make your WhatsApp experience more interesting!
+
+***
+### DEVELOPER:
+**GET In Touch with The Owner**
+- [**On TELEGRAM**](https://t.me/Toxxicn_bot)
+- [**CHANNEL**](https://whatsapp.com/channel/0029Vao1R2n9sBIC9sPhvI1P) 
+***
+### WARNING
+
+- **QUEEN-RIAS is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *In that case, I'm not responsible for banning your account.*
+- *Use QUEEN-RIAS at your own risk by keeping this warning in mind.*
+  
+  #### ```TOTAL REPO VIEWS 🧚```
+![Visitor Count](https://profile-counter.glitch.me/Riasgv3/count.svg)
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+ ## [WEBSITE](https://toxxic-site.vercel.app/) 
+### THANKS TO:
+
+- Myself Toxxic For making This bot
+- Nexus Team For Support
+- The Almighty and His Team For Testing
+- Blue Demon For Support And Api and his wisdom
+- Toxxic Girl For Not Existing
+-

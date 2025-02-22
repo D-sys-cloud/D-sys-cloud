@@ -3,7 +3,7 @@
   
 ---  
 
-> **`Updated To` The Version 3.0**
+> **`Updated To` The Version 1.0**
 ---
 
 ```
@@ -45,7 +45,7 @@ GUEVE-MD BY GUEVE-TECH 💜
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-  <a href="https://github.com/JawadYTX/GUEVE-MD/fork"><img title="KHAN-MD" src="https://img.shields.io/badge/FORK-KHAN MD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/GUEVE-TECH/GUEVE-MD/fork"><img title="GUEVE-MD" src="https://img.shields.io/badge/FORK-GUEVE MD-h?color=rouge&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. Get Session ID 
 
